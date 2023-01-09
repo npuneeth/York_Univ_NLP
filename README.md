@@ -1,4 +1,4 @@
-# Applied Machine Learning & Lifecycle - CSML 1010
+# Applied Machine Learning & Lifecycle - York Univ CSML 1010
 #### 1. Plan each step of the machine learning life-cycle by defining the problems, determining the metrics that define a successful outcome, evaluating constraints and shortcomings, determining appropriate approaches by selecting several potential models and algorithms, and building a simple solution to the problem.
 #### 2. Explore data (unstructured) by performing basic exploration such as visualization and analyzing the data, computing exploratory statistics, extracting and design features and carry out further feature engineering techniques such as feature selection or feature creation based on those explorations.
 #### 3. Select the appropriate machine learning models to match the type of problem, know the trade-off (shortfalls and strengths) of each model, compute proper evaluation metrics and learning curve, understand bias-variance trade-off, interpret the model and explain the results, iterate on models strategically to improve performance (i.e. from the baseline model to the ensemble model).
